@@ -1,0 +1,32 @@
+﻿@model IEnumerable<SickErrand>
+
+<nav>
+  <p>
+    <a asp-controller="Admin" asp-action="HRStaff">HR startsida</a> / <strong>Sjukskrivningsinformation</strong>
+    <a asp-controller="Account" asp-action="Logout" class="right">Logga ut</a>
+  </p>
+</nav>
+
+<main>
+  <h2>Information om sjukskrivning och vård av barn</h2>
+
+  <table>
+    <tr>
+      <th>Anställningsnummer</th>
+      <th>Barnets Namn (VAB)</th>
+      <th>Typ av sjukskrivning</th>
+      <th>Startdatum</th>
+      <th>Slutdatum</th>
+    </tr>
+    @foreach (SickErrand sickErrand in Model)
+    {
+      <tr>
+        <td>@sickErrand.EmployeeID</td>
+        <td>@sickErrand.ChildName</td>
+        <td>@sickErrand.TypeOfAbsence</td>
+        <td>@sickErrand.HomeFrom.ToShortDateString()</td>
+        <td>@sickErrand.HomeUntil.ToShortDateString()</td>
+      </tr>
+    }
+  </table>
+</main>

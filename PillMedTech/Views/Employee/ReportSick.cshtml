@@ -1,0 +1,31 @@
+﻿@model SickErrand
+
+<nav>
+    <p>
+        <a asp-controller="Employee" asp-action="StartEmployee">Sjukanmälan</a> / <strong>Sjuk med intyg</strong>
+        <a asp-controller="Account" asp-action="Logout" class="right">Logga ut</a>
+    </p>
+</nav>
+
+<main>
+    <h2>Sjuk med intyg</h2>
+    <form asp-controller="Employee" asp-action="ReportSick" method="post">
+        <div asp-validation-summary="All"></div>
+        <p>
+            <label asp-for="EmployeeID" class="text-black"></label><span class="text-danger">*</span>
+            <input type="hidden" name="EmployeeID" value="@ViewBag.EmployeeID"/>
+            @ViewBag.EmployeeID
+        </p>
+        <p>
+            <label asp-for="HomeFrom" class="text-black"></label><span class="text-danger">*</span>
+            <input asp-for="HomeFrom">
+        </p>
+        <p>
+            <label asp-for="HomeUntil" class="text-black"></label><span class="text-danger">*</span>
+            <input asp-for="HomeUntil">
+        </p>
+        <p>
+            <input type="submit" class="btn" value="Skicka in">
+        </p>
+    </form>
+</main>

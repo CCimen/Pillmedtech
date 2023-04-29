@@ -1,0 +1,28 @@
+﻿<nav>
+  <p>
+    <a asp-controller="Account" asp-action="Login">Inloggning</a> / <strong>Sjukskrivning av anställd</strong>
+    <a asp-controller="Home" asp-action="Index" class="right">Logga ut</a>
+    </>
+</nav>
+
+<main>
+  <h2>Sjukanmälan</h2>
+
+  <div class="flexdisplay">
+    <div class="item bg-primary">
+      <a asp-controller="Employee" asp-action="ReportSickChild">
+        <h3>Vård <br> av barn</h3>
+      </a>
+    </div>
+    <div class="item bg_success">
+      <a asp-controller="Employee" asp-action="ReportSickDay">
+        <h3>Sjuk: <br> idag</h3>
+      </a>
+    </div>
+    <div class="item bg_warning">
+      <a asp-controller="Employee" asp-action="ReportSick">
+        <h3>Sjuk: <br> Läkarintyg</h3>
+      </a>
+    </div>
+  </div>
+</main>

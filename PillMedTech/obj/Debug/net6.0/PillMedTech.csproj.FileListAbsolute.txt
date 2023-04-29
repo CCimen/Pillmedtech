@@ -1,0 +1,150 @@
+C:/Users/millu256/Documents/1 Skolan/IT säkerhet/2022/Examination/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.csproj.AssemblyReference.cache
+C:/Users/millu256/Documents/1 Skolan/IT säkerhet/2022/Examination/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/millu256/Documents/1 Skolan/IT säkerhet/2022/Examination/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.AssemblyInfoInputs.cache
+C:/Users/millu256/Documents/1 Skolan/IT säkerhet/2022/Examination/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.AssemblyInfo.cs
+C:/Users/millu256/Documents/1 Skolan/IT säkerhet/2022/Examination/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.csproj.CoreCompileInputs.cache
+C:/Users/millu256/Documents/1 Skolan/IT säkerhet/2022/Examination/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/millu256/Documents/1 Skolan/IT säkerhet/2022/Examination/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.RazorAssemblyInfo.cache
+C:/Users/millu256/Documents/1 Skolan/IT säkerhet/2022/Examination/Säker programmering/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.RazorAssemblyInfo.cs
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.csproj.AssemblyReference.cache
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.AssemblyInfoInputs.cache
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.AssemblyInfo.cs
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.csproj.CoreCompileInputs.cache
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.RazorAssemblyInfo.cache
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.RazorAssemblyInfo.cs
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/appsettings.json
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech.staticwebassets.runtime.json
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech.exe
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech.deps.json
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech.runtimeconfig.json
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/PillMedTech.pdb
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Humanizer.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/staticwebassets/msbuild.PillMedTech.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/staticwebassets/msbuild.build.PillMedTech.props
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PillMedTech.props
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PillMedTech.props
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/scopedcss/Views/Shared/_MainLayout.cshtml.rz.scp.css
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/scopedcss/bundle/PillMedTech.styles.css
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/scopedcss/projectbundle/PillMedTech.bundle.scp.css
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.csproj.CopyComplete
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/refint/PillMedTech.dll
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.pdb
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/PillMedTech.genruntimeconfig.cache
+C:/Users/cagri/Pictures/PillMedTech/PillMedTech/obj/Debug/net6.0/ref/PillMedTech.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/PillMedTech.csproj.AssemblyReference.cache
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/PillMedTech.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/PillMedTech.AssemblyInfoInputs.cache
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/PillMedTech.AssemblyInfo.cs
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/PillMedTech.csproj.CoreCompileInputs.cache
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/PillMedTech.MvcApplicationPartsAssemblyInfo.cache
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/PillMedTech.RazorAssemblyInfo.cache
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/PillMedTech.RazorAssemblyInfo.cs
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/PillMedTech.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/refint/PillMedTech.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/PillMedTech.pdb
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/appsettings.Development.json
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/appsettings.json
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/PillMedTech.staticwebassets.runtime.json
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/PillMedTech
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/PillMedTech.deps.json
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/PillMedTech.runtimeconfig.json
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/PillMedTech.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/PillMedTech.pdb
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Humanizer.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/staticwebassets/msbuild.PillMedTech.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/staticwebassets/msbuild.build.PillMedTech.props
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.PillMedTech.props
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.PillMedTech.props
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/staticwebassets.build.json
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/staticwebassets.development.json
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/scopedcss/Views/Shared/_MainLayout.cshtml.rz.scp.css
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/scopedcss/bundle/PillMedTech.styles.css
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/scopedcss/projectbundle/PillMedTech.bundle.scp.css
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/PillMedTech.csproj.CopyComplete
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/PillMedTech.genruntimeconfig.cache
+/Users/xethus/Downloads/PillMedTech 2/PillMedTech/obj/Debug/net6.0/ref/PillMedTech.dll

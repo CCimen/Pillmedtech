@@ -1,0 +1,35 @@
+﻿@model SickErrand
+
+<nav>
+    <p>
+        <a asp-controller="Employee" asp-action="StartEmployee">Sjukanmälan</a> / <strong>Vård av barn</strong>
+        <a asp-controller="Account" asp-action="Logout" class="right">Logga ut</a>
+    </p>
+</nav>
+
+<main>
+    <h2>Vård av sjukt barn</h2>
+
+    <form asp-controller="Employee" asp-action="ReportSickChild" method="post">
+        <div asp-validation-summary="All"></div>
+        <p>
+            <label asp-for="EmployeeID" class="text-black"></label><span class="text-danger">*</span>
+            <input type="hidden" name="EmployeeID" value="@ViewBag.EmployeeID"/>
+            @ViewBag.EmployeeID
+        </p>
+        <p>
+            <!-- Datainhämtning: 2.1 Använda formulärkontroller där användaren väljer att istället för att skriva (så långt det är möjligt) -->
+            <label asp-for="ChildName" class="text-black"></label><span class="text-danger">*</span>
+            <select asp-for="ChildName" asp-items="@(new SelectList(ViewBag.Children, "ChildName", "ChildName"))">
+            </select>
+
+        </p>
+        <p>
+            <label asp-for="HomeFrom" class="text-black"></label><span class="text-danger">*</span>
+            <input asp-for="HomeFrom">
+        </p>
+        <p>
+            <input type="submit" class="btn" value="Skicka in">
+        </p>
+    </form>
+</main>

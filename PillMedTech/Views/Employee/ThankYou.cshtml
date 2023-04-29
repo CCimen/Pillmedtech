@@ -1,0 +1,19 @@
+﻿<nav>
+  <p>
+    <a asp-controller="Employee" asp-action="StartEmployee">Sjukanmälan</a> / <strong>Anmälan mottagen</strong>
+    <a asp-controller="Account" asp-action="Logout" class="right">Logga ut</a>
+  </p>
+</nav>
+
+<main>
+  <div class="container">
+    <span class="icon-check_circle text-success"></span>
+    <h2 class="thanks">Tack!</h2>
+    <p class="thanks_sub">
+      Din anmälan är mottagen
+    </p>
+    <p class="btn btn_start">
+      <a asp-controller="Employee" asp-action="StartEmployee">Tillbaka</a>
+    </p>
+  </div>
+</main>

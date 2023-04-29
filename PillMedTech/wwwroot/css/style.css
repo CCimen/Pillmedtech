@@ -1,0 +1,226 @@
+﻿html {
+    font-size: 105%;
+}
+
+body {
+    line-height: 1.7;
+    color: #8c92a0;
+    font-weight: 300;
+    font-family: "Rubik", "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+header {
+    margin-left: 10rem;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    font-size: 0.9rem;
+}
+
+    header a {
+        color: #000 !important;
+        text-decoration: none;
+    }
+
+nav {
+    background-color: #f8f9fa;
+    padding: 0.5rem;
+    padding-left: 14rem;
+}
+
+    nav a {
+        color: #CF0303;
+        text-decoration: none;
+    }
+
+.right {
+    float: right;
+    margin-right: 25rem;
+}
+
+footer {
+    text-align: center;
+    margin-top: 5rem;
+}
+
+.btn {
+    border-width: 1px;
+    border-color: #317302;
+    border-radius: 7px;
+    background-color: #317302;
+}
+
+.btn_start {
+    font-size: 2rem;
+    line-height: 3rem;
+    text-transform: uppercase;
+    width: 15rem;
+    margin: auto;
+}
+
+.btn a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/*index-sidan*/
+
+main.start {
+    height: 1000px;
+    background-image: url(../images/medicinburkar.jpg);
+}
+
+.container {
+    width: 50%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 5rem;
+    padding-top: 4rem;
+}
+
+h2 {
+    color: #000;
+    font-size: 2rem;
+    text-align: center;
+}
+
+    h2.h_start {
+        font-size: 5rem;
+        font-weight: 900;
+        color: #fff;
+        margin: 0;
+        margin-bottom: 30px;
+    }
+
+.sub-title {
+    font-size: 1rem;
+    letter-spacing: 0.2rem;
+    color: #fff;
+    text-transform: uppercase;
+    margin: 0;
+    padding-top: 10rem;
+}
+
+/*Formulärsidor*/
+
+form {
+    width: 40%;
+    margin: 5rem auto;
+}
+
+label {
+    width: 16rem;
+    float: left;
+    text-align: right;
+    margin-right: 10px;
+    color: #000;
+}
+
+input[type="text"], input[type="password"], input[type="date"] {
+    height: 1.5rem;
+}
+
+form .btn {
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    text-transform: uppercase;
+    width: 8rem;
+    padding: 0.5rem;
+    margin-top: 2rem;
+    margin-left: 17rem;
+    color: #fff;
+}
+
+/*Anställd-sidan*/
+
+.flexdisplay {
+    display: flex;
+    justify-content: center;
+}
+
+.item {
+    width: 250px;
+    margin: 20px;
+}
+
+    .item a {
+        color: #000;
+        text-decoration: none;
+        text-align: center;
+    }
+
+.bg-primary {
+    border-width: 1px;
+    border-color: #51eaea;
+    border-radius: 7px;
+    background-color: #51eaea;
+}
+
+.bg_success {
+    border-width: 1px;
+    border-color: #317302;
+    border-radius: 7px;
+    background-color: #317302;
+}
+
+    .bg_success a {
+        color: #fff;
+    }
+
+.bg_warning {
+    border-width: 1px;
+    border-color: #ffc107;
+    border-radius: 7px;
+    background-color: #ffc107;
+}
+
+/*Tack-sidan*/
+
+.text-success {
+    color: #28a745;
+    font-size: 4.5rem;
+}
+
+.thanks {
+    font-size: 5rem;
+    margin: 0;
+}
+
+.thanks_sub {
+    font-size: 1.3rem;
+    margin-bottom: 4rem;
+    letter-spacing: 0.2rem;
+}
+
+/*Info om sjukskrivning och loggar*/
+
+table {
+    width: 80%;
+    margin: auto;
+    table-layout: fixed;
+}
+
+tr:nth-child(even) {
+    background-color: #f8f9fa;
+}
+
+tr:first-of-type {
+    background-color: #317302;
+}
+
+th {
+    font-weight: 900;
+    text-align: left;
+    color: #fff;
+    padding: 0.5rem 1rem;
+}
+
+td {
+    padding: 0.5rem 1rem;
+    color: #000;
+}
+
+/*AccessDenied*/
+.text-warning {
+    color: #ffc107 !important;
+    font-size: 4.5rem;
+}
